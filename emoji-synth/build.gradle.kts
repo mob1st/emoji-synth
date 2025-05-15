@@ -11,10 +11,11 @@ repositories {
 }
 
 application {
-    mainClass.set("com.mob1st.emoji.MainKt")
+    mainClass.set("com.mob1st.emoji.cli.MainKt")
 }
 
 dependencies {
+    implementation("org.json:json:20250107")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
     testImplementation(kotlin("test"))
 }

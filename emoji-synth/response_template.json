@@ -1,0 +1,12 @@
+{
+  "emoji": "\uD83D\uDCA1",
+  "codePoints": ["1F4A1"],
+  "unicodeName": "LIGHT BULB",
+  "group": "OBJECTS",
+  "subGroup": "LIGHT & ELECTRICITY",
+  "localization": {
+    "language": "en",
+    "name": "Light Bulb",
+    "tags": ["light", "bulb", "idea", "inspiration"]
+  }
+}
