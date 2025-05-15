@@ -25,7 +25,7 @@ class CldrDocumentParser(
             val cp = node.attributes?.getNamedItem("cp")?.nodeValue ?: continue
             val type = node.attributes?.getNamedItem("type")?.nodeValue
 
-            val key = EmojiNormalizer.normalizedUnicode(cp)
+            val key = EmojiNormalizer.normalizedUnicode(cp.trim())
             val temp = result.getOrDefault(
                 key,
                 Emoji.Localization()

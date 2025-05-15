@@ -23,16 +23,18 @@ class GithubPageParser(
             var notFound = 0
             emojis.forEach { emoji ->
                 val localizationJson = localizationMap.toJson(emoji.unicode)
-                if (localizationJson != null) {
-                    val emojiJson = emoji.toJson()
-                    emojiJson.put(
-                        "localization",
-                        localizationJson
-                    )
-                    put(emojiJson)
+                val value = if (localizationJson != null) {
+                    localizationJson
                 } else {
                     notFound++
+                    JSONObject.NULL
                 }
+                val emojiJson = emoji.toJson()
+                emojiJson.put(
+                    "localization",
+                    value
+                )
+                put(emojiJson)
 
             }
             println("Not found count: $notFound")
@@ -55,6 +57,7 @@ class GithubPageParser(
         val key = EmojiNormalizer.normalizedUnicode(unicode)
         val localization = this[key]
         if (localization == null) {
+            println("Localization not found for key: $key -- $unicode")
             return null
         }
         return JSONObject().apply {

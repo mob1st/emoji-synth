@@ -18,7 +18,7 @@ class GithubPagesApi(
             localizationMap = localizationMap
         )
         jsonFileWriter.write(
-            filePath = "output/emojis_$language.json",
+            filePath = "docs/emojis_$language.json",
             json = json
         )
     }

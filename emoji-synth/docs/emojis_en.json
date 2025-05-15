@@ -8430,6 +8430,166 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: light skin tone, medium-light skin tone",
+      "unicode": "🫱🏻\u200d🫲🏼",
+      "codePoint": "1FAF1 1F3FB 200D 1FAF2 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: light skin tone, medium skin tone",
+      "unicode": "🫱🏻\u200d🫲🏽",
+      "codePoint": "1FAF1 1F3FB 200D 1FAF2 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: light skin tone, medium-dark skin tone",
+      "unicode": "🫱🏻\u200d🫲🏾",
+      "codePoint": "1FAF1 1F3FB 200D 1FAF2 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: light skin tone, dark skin tone",
+      "unicode": "🫱🏻\u200d🫲🏿",
+      "codePoint": "1FAF1 1F3FB 200D 1FAF2 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-light skin tone, light skin tone",
+      "unicode": "🫱🏼\u200d🫲🏻",
+      "codePoint": "1FAF1 1F3FC 200D 1FAF2 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-light skin tone, medium skin tone",
+      "unicode": "🫱🏼\u200d🫲🏽",
+      "codePoint": "1FAF1 1F3FC 200D 1FAF2 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-light skin tone, medium-dark skin tone",
+      "unicode": "🫱🏼\u200d🫲🏾",
+      "codePoint": "1FAF1 1F3FC 200D 1FAF2 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-light skin tone, dark skin tone",
+      "unicode": "🫱🏼\u200d🫲🏿",
+      "codePoint": "1FAF1 1F3FC 200D 1FAF2 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium skin tone, light skin tone",
+      "unicode": "🫱🏽\u200d🫲🏻",
+      "codePoint": "1FAF1 1F3FD 200D 1FAF2 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium skin tone, medium-light skin tone",
+      "unicode": "🫱🏽\u200d🫲🏼",
+      "codePoint": "1FAF1 1F3FD 200D 1FAF2 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium skin tone, medium-dark skin tone",
+      "unicode": "🫱🏽\u200d🫲🏾",
+      "codePoint": "1FAF1 1F3FD 200D 1FAF2 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium skin tone, dark skin tone",
+      "unicode": "🫱🏽\u200d🫲🏿",
+      "codePoint": "1FAF1 1F3FD 200D 1FAF2 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-dark skin tone, light skin tone",
+      "unicode": "🫱🏾\u200d🫲🏻",
+      "codePoint": "1FAF1 1F3FE 200D 1FAF2 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-dark skin tone, medium-light skin tone",
+      "unicode": "🫱🏾\u200d🫲🏼",
+      "codePoint": "1FAF1 1F3FE 200D 1FAF2 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-dark skin tone, medium skin tone",
+      "unicode": "🫱🏾\u200d🫲🏽",
+      "codePoint": "1FAF1 1F3FE 200D 1FAF2 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: medium-dark skin tone, dark skin tone",
+      "unicode": "🫱🏾\u200d🫲🏿",
+      "codePoint": "1FAF1 1F3FE 200D 1FAF2 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: dark skin tone, light skin tone",
+      "unicode": "🫱🏿\u200d🫲🏻",
+      "codePoint": "1FAF1 1F3FF 200D 1FAF2 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: dark skin tone, medium-light skin tone",
+      "unicode": "🫱🏿\u200d🫲🏼",
+      "codePoint": "1FAF1 1F3FF 200D 1FAF2 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: dark skin tone, medium skin tone",
+      "unicode": "🫱🏿\u200d🫲🏽",
+      "codePoint": "1FAF1 1F3FF 200D 1FAF2 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "hands",
+      "name": "handshake: dark skin tone, medium-dark skin tone",
+      "unicode": "🫱🏿\u200d🫲🏾",
+      "codePoint": "1FAF1 1F3FF 200D 1FAF2 1F3FE",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "folded hands",
         "tags": [
@@ -10872,6 +11032,198 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: red hair",
+      "unicode": "👨\u200d🦰",
+      "codePoint": "1F468 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: light skin tone, red hair",
+      "unicode": "👨🏻\u200d🦰",
+      "codePoint": "1F468 1F3FB 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-light skin tone, red hair",
+      "unicode": "👨🏼\u200d🦰",
+      "codePoint": "1F468 1F3FC 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium skin tone, red hair",
+      "unicode": "👨🏽\u200d🦰",
+      "codePoint": "1F468 1F3FD 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-dark skin tone, red hair",
+      "unicode": "👨🏾\u200d🦰",
+      "codePoint": "1F468 1F3FE 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: dark skin tone, red hair",
+      "unicode": "👨🏿\u200d🦰",
+      "codePoint": "1F468 1F3FF 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: curly hair",
+      "unicode": "👨\u200d🦱",
+      "codePoint": "1F468 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: light skin tone, curly hair",
+      "unicode": "👨🏻\u200d🦱",
+      "codePoint": "1F468 1F3FB 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-light skin tone, curly hair",
+      "unicode": "👨🏼\u200d🦱",
+      "codePoint": "1F468 1F3FC 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium skin tone, curly hair",
+      "unicode": "👨🏽\u200d🦱",
+      "codePoint": "1F468 1F3FD 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-dark skin tone, curly hair",
+      "unicode": "👨🏾\u200d🦱",
+      "codePoint": "1F468 1F3FE 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: dark skin tone, curly hair",
+      "unicode": "👨🏿\u200d🦱",
+      "codePoint": "1F468 1F3FF 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: white hair",
+      "unicode": "👨\u200d🦳",
+      "codePoint": "1F468 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: light skin tone, white hair",
+      "unicode": "👨🏻\u200d🦳",
+      "codePoint": "1F468 1F3FB 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-light skin tone, white hair",
+      "unicode": "👨🏼\u200d🦳",
+      "codePoint": "1F468 1F3FC 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium skin tone, white hair",
+      "unicode": "👨🏽\u200d🦳",
+      "codePoint": "1F468 1F3FD 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-dark skin tone, white hair",
+      "unicode": "👨🏾\u200d🦳",
+      "codePoint": "1F468 1F3FE 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: dark skin tone, white hair",
+      "unicode": "👨🏿\u200d🦳",
+      "codePoint": "1F468 1F3FF 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: bald",
+      "unicode": "👨\u200d🦲",
+      "codePoint": "1F468 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: light skin tone, bald",
+      "unicode": "👨🏻\u200d🦲",
+      "codePoint": "1F468 1F3FB 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-light skin tone, bald",
+      "unicode": "👨🏼\u200d🦲",
+      "codePoint": "1F468 1F3FC 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium skin tone, bald",
+      "unicode": "👨🏽\u200d🦲",
+      "codePoint": "1F468 1F3FD 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: medium-dark skin tone, bald",
+      "unicode": "👨🏾\u200d🦲",
+      "codePoint": "1F468 1F3FE 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "man: dark skin tone, bald",
+      "unicode": "👨🏿\u200d🦲",
+      "codePoint": "1F468 1F3FF 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "woman",
         "tags": [
@@ -10959,6 +11311,390 @@
       "name": "woman: dark skin tone",
       "unicode": "👩🏿",
       "codePoint": "1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: red hair",
+      "unicode": "👩\u200d🦰",
+      "codePoint": "1F469 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: light skin tone, red hair",
+      "unicode": "👩🏻\u200d🦰",
+      "codePoint": "1F469 1F3FB 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-light skin tone, red hair",
+      "unicode": "👩🏼\u200d🦰",
+      "codePoint": "1F469 1F3FC 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium skin tone, red hair",
+      "unicode": "👩🏽\u200d🦰",
+      "codePoint": "1F469 1F3FD 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-dark skin tone, red hair",
+      "unicode": "👩🏾\u200d🦰",
+      "codePoint": "1F469 1F3FE 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: dark skin tone, red hair",
+      "unicode": "👩🏿\u200d🦰",
+      "codePoint": "1F469 1F3FF 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: red hair",
+      "unicode": "🧑\u200d🦰",
+      "codePoint": "1F9D1 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: light skin tone, red hair",
+      "unicode": "🧑🏻\u200d🦰",
+      "codePoint": "1F9D1 1F3FB 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-light skin tone, red hair",
+      "unicode": "🧑🏼\u200d🦰",
+      "codePoint": "1F9D1 1F3FC 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium skin tone, red hair",
+      "unicode": "🧑🏽\u200d🦰",
+      "codePoint": "1F9D1 1F3FD 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-dark skin tone, red hair",
+      "unicode": "🧑🏾\u200d🦰",
+      "codePoint": "1F9D1 1F3FE 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: dark skin tone, red hair",
+      "unicode": "🧑🏿\u200d🦰",
+      "codePoint": "1F9D1 1F3FF 200D 1F9B0",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: curly hair",
+      "unicode": "👩\u200d🦱",
+      "codePoint": "1F469 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: light skin tone, curly hair",
+      "unicode": "👩🏻\u200d🦱",
+      "codePoint": "1F469 1F3FB 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-light skin tone, curly hair",
+      "unicode": "👩🏼\u200d🦱",
+      "codePoint": "1F469 1F3FC 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium skin tone, curly hair",
+      "unicode": "👩🏽\u200d🦱",
+      "codePoint": "1F469 1F3FD 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-dark skin tone, curly hair",
+      "unicode": "👩🏾\u200d🦱",
+      "codePoint": "1F469 1F3FE 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: dark skin tone, curly hair",
+      "unicode": "👩🏿\u200d🦱",
+      "codePoint": "1F469 1F3FF 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: curly hair",
+      "unicode": "🧑\u200d🦱",
+      "codePoint": "1F9D1 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: light skin tone, curly hair",
+      "unicode": "🧑🏻\u200d🦱",
+      "codePoint": "1F9D1 1F3FB 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-light skin tone, curly hair",
+      "unicode": "🧑🏼\u200d🦱",
+      "codePoint": "1F9D1 1F3FC 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium skin tone, curly hair",
+      "unicode": "🧑🏽\u200d🦱",
+      "codePoint": "1F9D1 1F3FD 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-dark skin tone, curly hair",
+      "unicode": "🧑🏾\u200d🦱",
+      "codePoint": "1F9D1 1F3FE 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: dark skin tone, curly hair",
+      "unicode": "🧑🏿\u200d🦱",
+      "codePoint": "1F9D1 1F3FF 200D 1F9B1",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: white hair",
+      "unicode": "👩\u200d🦳",
+      "codePoint": "1F469 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: light skin tone, white hair",
+      "unicode": "👩🏻\u200d🦳",
+      "codePoint": "1F469 1F3FB 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-light skin tone, white hair",
+      "unicode": "👩🏼\u200d🦳",
+      "codePoint": "1F469 1F3FC 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium skin tone, white hair",
+      "unicode": "👩🏽\u200d🦳",
+      "codePoint": "1F469 1F3FD 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-dark skin tone, white hair",
+      "unicode": "👩🏾\u200d🦳",
+      "codePoint": "1F469 1F3FE 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: dark skin tone, white hair",
+      "unicode": "👩🏿\u200d🦳",
+      "codePoint": "1F469 1F3FF 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: white hair",
+      "unicode": "🧑\u200d🦳",
+      "codePoint": "1F9D1 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: light skin tone, white hair",
+      "unicode": "🧑🏻\u200d🦳",
+      "codePoint": "1F9D1 1F3FB 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-light skin tone, white hair",
+      "unicode": "🧑🏼\u200d🦳",
+      "codePoint": "1F9D1 1F3FC 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium skin tone, white hair",
+      "unicode": "🧑🏽\u200d🦳",
+      "codePoint": "1F9D1 1F3FD 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-dark skin tone, white hair",
+      "unicode": "🧑🏾\u200d🦳",
+      "codePoint": "1F9D1 1F3FE 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: dark skin tone, white hair",
+      "unicode": "🧑🏿\u200d🦳",
+      "codePoint": "1F9D1 1F3FF 200D 1F9B3",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: bald",
+      "unicode": "👩\u200d🦲",
+      "codePoint": "1F469 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: light skin tone, bald",
+      "unicode": "👩🏻\u200d🦲",
+      "codePoint": "1F469 1F3FB 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-light skin tone, bald",
+      "unicode": "👩🏼\u200d🦲",
+      "codePoint": "1F469 1F3FC 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium skin tone, bald",
+      "unicode": "👩🏽\u200d🦲",
+      "codePoint": "1F469 1F3FD 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: medium-dark skin tone, bald",
+      "unicode": "👩🏾\u200d🦲",
+      "codePoint": "1F469 1F3FE 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "woman: dark skin tone, bald",
+      "unicode": "👩🏿\u200d🦲",
+      "codePoint": "1F469 1F3FF 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: bald",
+      "unicode": "🧑\u200d🦲",
+      "codePoint": "1F9D1 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: light skin tone, bald",
+      "unicode": "🧑🏻\u200d🦲",
+      "codePoint": "1F9D1 1F3FB 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-light skin tone, bald",
+      "unicode": "🧑🏼\u200d🦲",
+      "codePoint": "1F9D1 1F3FC 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium skin tone, bald",
+      "unicode": "🧑🏽\u200d🦲",
+      "codePoint": "1F9D1 1F3FD 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: medium-dark skin tone, bald",
+      "unicode": "🧑🏾\u200d🦲",
+      "codePoint": "1F9D1 1F3FE 200D 1F9B2",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person",
+      "name": "person: dark skin tone, bald",
+      "unicode": "🧑🏿\u200d🦲",
+      "codePoint": "1F9D1 1F3FF 200D 1F9B2",
       "group": "People & Body"
     },
     {
@@ -28696,6 +29432,150 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person walking facing right",
+      "unicode": "🚶\u200d➡️",
+      "codePoint": "1F6B6 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person walking facing right: light skin tone",
+      "unicode": "🚶🏻\u200d➡️",
+      "codePoint": "1F6B6 1F3FB 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person walking facing right: medium-light skin tone",
+      "unicode": "🚶🏼\u200d➡️",
+      "codePoint": "1F6B6 1F3FC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person walking facing right: medium skin tone",
+      "unicode": "🚶🏽\u200d➡️",
+      "codePoint": "1F6B6 1F3FD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person walking facing right: medium-dark skin tone",
+      "unicode": "🚶🏾\u200d➡️",
+      "codePoint": "1F6B6 1F3FE 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person walking facing right: dark skin tone",
+      "unicode": "🚶🏿\u200d➡️",
+      "codePoint": "1F6B6 1F3FF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman walking facing right",
+      "unicode": "🚶\u200d♀️\u200d➡️",
+      "codePoint": "1F6B6 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman walking facing right: light skin tone",
+      "unicode": "🚶🏻\u200d♀️\u200d➡️",
+      "codePoint": "1F6B6 1F3FB 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman walking facing right: medium-light skin tone",
+      "unicode": "🚶🏼\u200d♀️\u200d➡️",
+      "codePoint": "1F6B6 1F3FC 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman walking facing right: medium skin tone",
+      "unicode": "🚶🏽\u200d♀️\u200d➡️",
+      "codePoint": "1F6B6 1F3FD 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman walking facing right: medium-dark skin tone",
+      "unicode": "🚶🏾\u200d♀️\u200d➡️",
+      "codePoint": "1F6B6 1F3FE 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman walking facing right: dark skin tone",
+      "unicode": "🚶🏿\u200d♀️\u200d➡️",
+      "codePoint": "1F6B6 1F3FF 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man walking facing right",
+      "unicode": "🚶\u200d♂️\u200d➡️",
+      "codePoint": "1F6B6 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man walking facing right: light skin tone",
+      "unicode": "🚶🏻\u200d♂️\u200d➡️",
+      "codePoint": "1F6B6 1F3FB 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man walking facing right: medium-light skin tone",
+      "unicode": "🚶🏼\u200d♂️\u200d➡️",
+      "codePoint": "1F6B6 1F3FC 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man walking facing right: medium skin tone",
+      "unicode": "🚶🏽\u200d♂️\u200d➡️",
+      "codePoint": "1F6B6 1F3FD 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man walking facing right: medium-dark skin tone",
+      "unicode": "🚶🏾\u200d♂️\u200d➡️",
+      "codePoint": "1F6B6 1F3FE 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man walking facing right: dark skin tone",
+      "unicode": "🚶🏿\u200d♂️\u200d➡️",
+      "codePoint": "1F6B6 1F3FF 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "person standing",
         "tags": [
@@ -29254,6 +30134,150 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person kneeling facing right",
+      "unicode": "🧎\u200d➡️",
+      "codePoint": "1F9CE 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person kneeling facing right: light skin tone",
+      "unicode": "🧎🏻\u200d➡️",
+      "codePoint": "1F9CE 1F3FB 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person kneeling facing right: medium-light skin tone",
+      "unicode": "🧎🏼\u200d➡️",
+      "codePoint": "1F9CE 1F3FC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person kneeling facing right: medium skin tone",
+      "unicode": "🧎🏽\u200d➡️",
+      "codePoint": "1F9CE 1F3FD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person kneeling facing right: medium-dark skin tone",
+      "unicode": "🧎🏾\u200d➡️",
+      "codePoint": "1F9CE 1F3FE 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person kneeling facing right: dark skin tone",
+      "unicode": "🧎🏿\u200d➡️",
+      "codePoint": "1F9CE 1F3FF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman kneeling facing right",
+      "unicode": "🧎\u200d♀️\u200d➡️",
+      "codePoint": "1F9CE 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman kneeling facing right: light skin tone",
+      "unicode": "🧎🏻\u200d♀️\u200d➡️",
+      "codePoint": "1F9CE 1F3FB 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman kneeling facing right: medium-light skin tone",
+      "unicode": "🧎🏼\u200d♀️\u200d➡️",
+      "codePoint": "1F9CE 1F3FC 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman kneeling facing right: medium skin tone",
+      "unicode": "🧎🏽\u200d♀️\u200d➡️",
+      "codePoint": "1F9CE 1F3FD 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman kneeling facing right: medium-dark skin tone",
+      "unicode": "🧎🏾\u200d♀️\u200d➡️",
+      "codePoint": "1F9CE 1F3FE 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman kneeling facing right: dark skin tone",
+      "unicode": "🧎🏿\u200d♀️\u200d➡️",
+      "codePoint": "1F9CE 1F3FF 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man kneeling facing right",
+      "unicode": "🧎\u200d♂️\u200d➡️",
+      "codePoint": "1F9CE 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man kneeling facing right: light skin tone",
+      "unicode": "🧎🏻\u200d♂️\u200d➡️",
+      "codePoint": "1F9CE 1F3FB 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man kneeling facing right: medium-light skin tone",
+      "unicode": "🧎🏼\u200d♂️\u200d➡️",
+      "codePoint": "1F9CE 1F3FC 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man kneeling facing right: medium skin tone",
+      "unicode": "🧎🏽\u200d♂️\u200d➡️",
+      "codePoint": "1F9CE 1F3FD 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man kneeling facing right: medium-dark skin tone",
+      "unicode": "🧎🏾\u200d♂️\u200d➡️",
+      "codePoint": "1F9CE 1F3FE 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man kneeling facing right: dark skin tone",
+      "unicode": "🧎🏿\u200d♂️\u200d➡️",
+      "codePoint": "1F9CE 1F3FF 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "person with white cane",
         "tags": [
@@ -29359,6 +30383,54 @@
       "name": "person with white cane: dark skin tone",
       "unicode": "🧑🏿\u200d🦯",
       "codePoint": "1F9D1 1F3FF 200D 1F9AF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person with white cane facing right",
+      "unicode": "🧑\u200d🦯\u200d➡️",
+      "codePoint": "1F9D1 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person with white cane facing right: light skin tone",
+      "unicode": "🧑🏻\u200d🦯\u200d➡️",
+      "codePoint": "1F9D1 1F3FB 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person with white cane facing right: medium-light skin tone",
+      "unicode": "🧑🏼\u200d🦯\u200d➡️",
+      "codePoint": "1F9D1 1F3FC 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person with white cane facing right: medium skin tone",
+      "unicode": "🧑🏽\u200d🦯\u200d➡️",
+      "codePoint": "1F9D1 1F3FD 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person with white cane facing right: medium-dark skin tone",
+      "unicode": "🧑🏾\u200d🦯\u200d➡️",
+      "codePoint": "1F9D1 1F3FE 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person with white cane facing right: dark skin tone",
+      "unicode": "🧑🏿\u200d🦯\u200d➡️",
+      "codePoint": "1F9D1 1F3FF 200D 1F9AF 200D 27A1 FE0F",
       "group": "People & Body"
     },
     {
@@ -29470,6 +30542,54 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man with white cane facing right",
+      "unicode": "👨\u200d🦯\u200d➡️",
+      "codePoint": "1F468 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man with white cane facing right: light skin tone",
+      "unicode": "👨🏻\u200d🦯\u200d➡️",
+      "codePoint": "1F468 1F3FB 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man with white cane facing right: medium-light skin tone",
+      "unicode": "👨🏼\u200d🦯\u200d➡️",
+      "codePoint": "1F468 1F3FC 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man with white cane facing right: medium skin tone",
+      "unicode": "👨🏽\u200d🦯\u200d➡️",
+      "codePoint": "1F468 1F3FD 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man with white cane facing right: medium-dark skin tone",
+      "unicode": "👨🏾\u200d🦯\u200d➡️",
+      "codePoint": "1F468 1F3FE 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man with white cane facing right: dark skin tone",
+      "unicode": "👨🏿\u200d🦯\u200d➡️",
+      "codePoint": "1F468 1F3FF 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "woman with white cane",
         "tags": [
@@ -29578,6 +30698,54 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman with white cane facing right",
+      "unicode": "👩\u200d🦯\u200d➡️",
+      "codePoint": "1F469 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman with white cane facing right: light skin tone",
+      "unicode": "👩🏻\u200d🦯\u200d➡️",
+      "codePoint": "1F469 1F3FB 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman with white cane facing right: medium-light skin tone",
+      "unicode": "👩🏼\u200d🦯\u200d➡️",
+      "codePoint": "1F469 1F3FC 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman with white cane facing right: medium skin tone",
+      "unicode": "👩🏽\u200d🦯\u200d➡️",
+      "codePoint": "1F469 1F3FD 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman with white cane facing right: medium-dark skin tone",
+      "unicode": "👩🏾\u200d🦯\u200d➡️",
+      "codePoint": "1F469 1F3FE 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman with white cane facing right: dark skin tone",
+      "unicode": "👩🏿\u200d🦯\u200d➡️",
+      "codePoint": "1F469 1F3FF 200D 1F9AF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "person in motorized wheelchair",
         "tags": [
@@ -29671,6 +30839,54 @@
       "name": "person in motorized wheelchair: dark skin tone",
       "unicode": "🧑🏿\u200d🦼",
       "codePoint": "1F9D1 1F3FF 200D 1F9BC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in motorized wheelchair facing right",
+      "unicode": "🧑\u200d🦼\u200d➡️",
+      "codePoint": "1F9D1 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in motorized wheelchair facing right: light skin tone",
+      "unicode": "🧑🏻\u200d🦼\u200d➡️",
+      "codePoint": "1F9D1 1F3FB 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in motorized wheelchair facing right: medium-light skin tone",
+      "unicode": "🧑🏼\u200d🦼\u200d➡️",
+      "codePoint": "1F9D1 1F3FC 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in motorized wheelchair facing right: medium skin tone",
+      "unicode": "🧑🏽\u200d🦼\u200d➡️",
+      "codePoint": "1F9D1 1F3FD 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in motorized wheelchair facing right: medium-dark skin tone",
+      "unicode": "🧑🏾\u200d🦼\u200d➡️",
+      "codePoint": "1F9D1 1F3FE 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in motorized wheelchair facing right: dark skin tone",
+      "unicode": "🧑🏿\u200d🦼\u200d➡️",
+      "codePoint": "1F9D1 1F3FF 200D 1F9BC 200D 27A1 FE0F",
       "group": "People & Body"
     },
     {
@@ -29770,6 +30986,54 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in motorized wheelchair facing right",
+      "unicode": "👨\u200d🦼\u200d➡️",
+      "codePoint": "1F468 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in motorized wheelchair facing right: light skin tone",
+      "unicode": "👨🏻\u200d🦼\u200d➡️",
+      "codePoint": "1F468 1F3FB 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in motorized wheelchair facing right: medium-light skin tone",
+      "unicode": "👨🏼\u200d🦼\u200d➡️",
+      "codePoint": "1F468 1F3FC 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in motorized wheelchair facing right: medium skin tone",
+      "unicode": "👨🏽\u200d🦼\u200d➡️",
+      "codePoint": "1F468 1F3FD 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in motorized wheelchair facing right: medium-dark skin tone",
+      "unicode": "👨🏾\u200d🦼\u200d➡️",
+      "codePoint": "1F468 1F3FE 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in motorized wheelchair facing right: dark skin tone",
+      "unicode": "👨🏿\u200d🦼\u200d➡️",
+      "codePoint": "1F468 1F3FF 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "woman in motorized wheelchair",
         "tags": [
@@ -29863,6 +31127,54 @@
       "name": "woman in motorized wheelchair: dark skin tone",
       "unicode": "👩🏿\u200d🦼",
       "codePoint": "1F469 1F3FF 200D 1F9BC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in motorized wheelchair facing right",
+      "unicode": "👩\u200d🦼\u200d➡️",
+      "codePoint": "1F469 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in motorized wheelchair facing right: light skin tone",
+      "unicode": "👩🏻\u200d🦼\u200d➡️",
+      "codePoint": "1F469 1F3FB 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in motorized wheelchair facing right: medium-light skin tone",
+      "unicode": "👩🏼\u200d🦼\u200d➡️",
+      "codePoint": "1F469 1F3FC 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in motorized wheelchair facing right: medium skin tone",
+      "unicode": "👩🏽\u200d🦼\u200d➡️",
+      "codePoint": "1F469 1F3FD 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in motorized wheelchair facing right: medium-dark skin tone",
+      "unicode": "👩🏾\u200d🦼\u200d➡️",
+      "codePoint": "1F469 1F3FE 200D 1F9BC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in motorized wheelchair facing right: dark skin tone",
+      "unicode": "👩🏿\u200d🦼\u200d➡️",
+      "codePoint": "1F469 1F3FF 200D 1F9BC 200D 27A1 FE0F",
       "group": "People & Body"
     },
     {
@@ -29962,6 +31274,54 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in manual wheelchair facing right",
+      "unicode": "🧑\u200d🦽\u200d➡️",
+      "codePoint": "1F9D1 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in manual wheelchair facing right: light skin tone",
+      "unicode": "🧑🏻\u200d🦽\u200d➡️",
+      "codePoint": "1F9D1 1F3FB 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in manual wheelchair facing right: medium-light skin tone",
+      "unicode": "🧑🏼\u200d🦽\u200d➡️",
+      "codePoint": "1F9D1 1F3FC 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in manual wheelchair facing right: medium skin tone",
+      "unicode": "🧑🏽\u200d🦽\u200d➡️",
+      "codePoint": "1F9D1 1F3FD 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in manual wheelchair facing right: medium-dark skin tone",
+      "unicode": "🧑🏾\u200d🦽\u200d➡️",
+      "codePoint": "1F9D1 1F3FE 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person in manual wheelchair facing right: dark skin tone",
+      "unicode": "🧑🏿\u200d🦽\u200d➡️",
+      "codePoint": "1F9D1 1F3FF 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "man in manual wheelchair",
         "tags": [
@@ -30058,6 +31418,54 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in manual wheelchair facing right",
+      "unicode": "👨\u200d🦽\u200d➡️",
+      "codePoint": "1F468 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in manual wheelchair facing right: light skin tone",
+      "unicode": "👨🏻\u200d🦽\u200d➡️",
+      "codePoint": "1F468 1F3FB 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in manual wheelchair facing right: medium-light skin tone",
+      "unicode": "👨🏼\u200d🦽\u200d➡️",
+      "codePoint": "1F468 1F3FC 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in manual wheelchair facing right: medium skin tone",
+      "unicode": "👨🏽\u200d🦽\u200d➡️",
+      "codePoint": "1F468 1F3FD 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in manual wheelchair facing right: medium-dark skin tone",
+      "unicode": "👨🏾\u200d🦽\u200d➡️",
+      "codePoint": "1F468 1F3FE 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man in manual wheelchair facing right: dark skin tone",
+      "unicode": "👨🏿\u200d🦽\u200d➡️",
+      "codePoint": "1F468 1F3FF 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "woman in manual wheelchair",
         "tags": [
@@ -30151,6 +31559,54 @@
       "name": "woman in manual wheelchair: dark skin tone",
       "unicode": "👩🏿\u200d🦽",
       "codePoint": "1F469 1F3FF 200D 1F9BD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in manual wheelchair facing right",
+      "unicode": "👩\u200d🦽\u200d➡️",
+      "codePoint": "1F469 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in manual wheelchair facing right: light skin tone",
+      "unicode": "👩🏻\u200d🦽\u200d➡️",
+      "codePoint": "1F469 1F3FB 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in manual wheelchair facing right: medium-light skin tone",
+      "unicode": "👩🏼\u200d🦽\u200d➡️",
+      "codePoint": "1F469 1F3FC 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in manual wheelchair facing right: medium skin tone",
+      "unicode": "👩🏽\u200d🦽\u200d➡️",
+      "codePoint": "1F469 1F3FD 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in manual wheelchair facing right: medium-dark skin tone",
+      "unicode": "👩🏾\u200d🦽\u200d➡️",
+      "codePoint": "1F469 1F3FE 200D 1F9BD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman in manual wheelchair facing right: dark skin tone",
+      "unicode": "👩🏿\u200d🦽\u200d➡️",
+      "codePoint": "1F469 1F3FF 200D 1F9BD 200D 27A1 FE0F",
       "group": "People & Body"
     },
     {
@@ -30565,6 +32021,150 @@
       "name": "woman running: dark skin tone",
       "unicode": "🏃🏿\u200d♀️",
       "codePoint": "1F3C3 1F3FF 200D 2640 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person running facing right",
+      "unicode": "🏃\u200d➡️",
+      "codePoint": "1F3C3 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person running facing right: light skin tone",
+      "unicode": "🏃🏻\u200d➡️",
+      "codePoint": "1F3C3 1F3FB 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person running facing right: medium-light skin tone",
+      "unicode": "🏃🏼\u200d➡️",
+      "codePoint": "1F3C3 1F3FC 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person running facing right: medium skin tone",
+      "unicode": "🏃🏽\u200d➡️",
+      "codePoint": "1F3C3 1F3FD 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person running facing right: medium-dark skin tone",
+      "unicode": "🏃🏾\u200d➡️",
+      "codePoint": "1F3C3 1F3FE 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "person running facing right: dark skin tone",
+      "unicode": "🏃🏿\u200d➡️",
+      "codePoint": "1F3C3 1F3FF 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman running facing right",
+      "unicode": "🏃\u200d♀️\u200d➡️",
+      "codePoint": "1F3C3 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman running facing right: light skin tone",
+      "unicode": "🏃🏻\u200d♀️\u200d➡️",
+      "codePoint": "1F3C3 1F3FB 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman running facing right: medium-light skin tone",
+      "unicode": "🏃🏼\u200d♀️\u200d➡️",
+      "codePoint": "1F3C3 1F3FC 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman running facing right: medium skin tone",
+      "unicode": "🏃🏽\u200d♀️\u200d➡️",
+      "codePoint": "1F3C3 1F3FD 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman running facing right: medium-dark skin tone",
+      "unicode": "🏃🏾\u200d♀️\u200d➡️",
+      "codePoint": "1F3C3 1F3FE 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "woman running facing right: dark skin tone",
+      "unicode": "🏃🏿\u200d♀️\u200d➡️",
+      "codePoint": "1F3C3 1F3FF 200D 2640 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man running facing right",
+      "unicode": "🏃\u200d♂️\u200d➡️",
+      "codePoint": "1F3C3 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man running facing right: light skin tone",
+      "unicode": "🏃🏻\u200d♂️\u200d➡️",
+      "codePoint": "1F3C3 1F3FB 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man running facing right: medium-light skin tone",
+      "unicode": "🏃🏼\u200d♂️\u200d➡️",
+      "codePoint": "1F3C3 1F3FC 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man running facing right: medium skin tone",
+      "unicode": "🏃🏽\u200d♂️\u200d➡️",
+      "codePoint": "1F3C3 1F3FD 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man running facing right: medium-dark skin tone",
+      "unicode": "🏃🏾\u200d♂️\u200d➡️",
+      "codePoint": "1F3C3 1F3FE 200D 2642 FE0F 200D 27A1 FE0F",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "person-activity",
+      "name": "man running facing right: dark skin tone",
+      "unicode": "🏃🏿\u200d♂️\u200d➡️",
+      "codePoint": "1F3C3 1F3FF 200D 2642 FE0F 200D 27A1 FE0F",
       "group": "People & Body"
     },
     {
@@ -38200,6 +39800,46 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: light skin tone, medium-light skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👩🏼",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: light skin tone, medium skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👩🏽",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: light skin tone, medium-dark skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👩🏾",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: light skin tone, dark skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👩🏿",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-light skin tone, light skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👩🏻",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "women holding hands",
         "tags": [
@@ -38222,6 +39862,46 @@
       "name": "women holding hands: medium-light skin tone",
       "unicode": "👭🏼",
       "codePoint": "1F46D 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-light skin tone, medium skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👩🏽",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-light skin tone, medium-dark skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👩🏾",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-light skin tone, dark skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👩🏿",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium skin tone, light skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👩🏻",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium skin tone, medium-light skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👩🏼",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FC",
       "group": "People & Body"
     },
     {
@@ -38250,6 +39930,46 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium skin tone, medium-dark skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👩🏾",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium skin tone, dark skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👩🏿",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-dark skin tone, light skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👩🏻",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-dark skin tone, medium-light skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👩🏼",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-dark skin tone, medium skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👩🏽",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "women holding hands",
         "tags": [
@@ -38272,6 +39992,46 @@
       "name": "women holding hands: medium-dark skin tone",
       "unicode": "👭🏾",
       "codePoint": "1F46D 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: medium-dark skin tone, dark skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👩🏿",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: dark skin tone, light skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👩🏻",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: dark skin tone, medium-light skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👩🏼",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: dark skin tone, medium skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👩🏽",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "women holding hands: dark skin tone, medium-dark skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👩🏾",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F469 1F3FE",
       "group": "People & Body"
     },
     {
@@ -38348,6 +40108,46 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: light skin tone, medium-light skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👨🏼",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: light skin tone, medium skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👨🏽",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: light skin tone, medium-dark skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👨🏾",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: light skin tone, dark skin tone",
+      "unicode": "👩🏻\u200d🤝\u200d👨🏿",
+      "codePoint": "1F469 1F3FB 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-light skin tone, light skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👨🏻",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "woman and man holding hands",
         "tags": [
@@ -38369,6 +40169,46 @@
       "name": "woman and man holding hands: medium-light skin tone",
       "unicode": "👫🏼",
       "codePoint": "1F46B 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-light skin tone, medium skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👨🏽",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-light skin tone, medium-dark skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👨🏾",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-light skin tone, dark skin tone",
+      "unicode": "👩🏼\u200d🤝\u200d👨🏿",
+      "codePoint": "1F469 1F3FC 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium skin tone, light skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👨🏻",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium skin tone, medium-light skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👨🏼",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FC",
       "group": "People & Body"
     },
     {
@@ -38396,6 +40236,46 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium skin tone, medium-dark skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👨🏾",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium skin tone, dark skin tone",
+      "unicode": "👩🏽\u200d🤝\u200d👨🏿",
+      "codePoint": "1F469 1F3FD 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-dark skin tone, light skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👨🏻",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-dark skin tone, medium-light skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👨🏼",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-dark skin tone, medium skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👨🏽",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "woman and man holding hands",
         "tags": [
@@ -38417,6 +40297,46 @@
       "name": "woman and man holding hands: medium-dark skin tone",
       "unicode": "👫🏾",
       "codePoint": "1F46B 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: medium-dark skin tone, dark skin tone",
+      "unicode": "👩🏾\u200d🤝\u200d👨🏿",
+      "codePoint": "1F469 1F3FE 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: dark skin tone, light skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👨🏻",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: dark skin tone, medium-light skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👨🏼",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: dark skin tone, medium skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👨🏽",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "woman and man holding hands: dark skin tone, medium-dark skin tone",
+      "unicode": "👩🏿\u200d🤝\u200d👨🏾",
+      "codePoint": "1F469 1F3FF 200D 1F91D 200D 1F468 1F3FE",
       "group": "People & Body"
     },
     {
@@ -38494,6 +40414,46 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: light skin tone, medium-light skin tone",
+      "unicode": "👨🏻\u200d🤝\u200d👨🏼",
+      "codePoint": "1F468 1F3FB 200D 1F91D 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: light skin tone, medium skin tone",
+      "unicode": "👨🏻\u200d🤝\u200d👨🏽",
+      "codePoint": "1F468 1F3FB 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: light skin tone, medium-dark skin tone",
+      "unicode": "👨🏻\u200d🤝\u200d👨🏾",
+      "codePoint": "1F468 1F3FB 200D 1F91D 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: light skin tone, dark skin tone",
+      "unicode": "👨🏻\u200d🤝\u200d👨🏿",
+      "codePoint": "1F468 1F3FB 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-light skin tone, light skin tone",
+      "unicode": "👨🏼\u200d🤝\u200d👨🏻",
+      "codePoint": "1F468 1F3FC 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "men holding hands",
         "tags": [
@@ -38516,6 +40476,46 @@
       "name": "men holding hands: medium-light skin tone",
       "unicode": "👬🏼",
       "codePoint": "1F46C 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-light skin tone, medium skin tone",
+      "unicode": "👨🏼\u200d🤝\u200d👨🏽",
+      "codePoint": "1F468 1F3FC 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-light skin tone, medium-dark skin tone",
+      "unicode": "👨🏼\u200d🤝\u200d👨🏾",
+      "codePoint": "1F468 1F3FC 200D 1F91D 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-light skin tone, dark skin tone",
+      "unicode": "👨🏼\u200d🤝\u200d👨🏿",
+      "codePoint": "1F468 1F3FC 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium skin tone, light skin tone",
+      "unicode": "👨🏽\u200d🤝\u200d👨🏻",
+      "codePoint": "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium skin tone, medium-light skin tone",
+      "unicode": "👨🏽\u200d🤝\u200d👨🏼",
+      "codePoint": "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FC",
       "group": "People & Body"
     },
     {
@@ -38544,6 +40544,46 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium skin tone, medium-dark skin tone",
+      "unicode": "👨🏽\u200d🤝\u200d👨🏾",
+      "codePoint": "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium skin tone, dark skin tone",
+      "unicode": "👨🏽\u200d🤝\u200d👨🏿",
+      "codePoint": "1F468 1F3FD 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-dark skin tone, light skin tone",
+      "unicode": "👨🏾\u200d🤝\u200d👨🏻",
+      "codePoint": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-dark skin tone, medium-light skin tone",
+      "unicode": "👨🏾\u200d🤝\u200d👨🏼",
+      "codePoint": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-dark skin tone, medium skin tone",
+      "unicode": "👨🏾\u200d🤝\u200d👨🏽",
+      "codePoint": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "men holding hands",
         "tags": [
@@ -38566,6 +40606,46 @@
       "name": "men holding hands: medium-dark skin tone",
       "unicode": "👬🏾",
       "codePoint": "1F46C 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: medium-dark skin tone, dark skin tone",
+      "unicode": "👨🏾\u200d🤝\u200d👨🏿",
+      "codePoint": "1F468 1F3FE 200D 1F91D 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: dark skin tone, light skin tone",
+      "unicode": "👨🏿\u200d🤝\u200d👨🏻",
+      "codePoint": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: dark skin tone, medium-light skin tone",
+      "unicode": "👨🏿\u200d🤝\u200d👨🏼",
+      "codePoint": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: dark skin tone, medium skin tone",
+      "unicode": "👨🏿\u200d🤝\u200d👨🏽",
+      "codePoint": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "men holding hands: dark skin tone, medium-dark skin tone",
+      "unicode": "👨🏿\u200d🤝\u200d👨🏾",
+      "codePoint": "1F468 1F3FF 200D 1F91D 200D 1F468 1F3FE",
       "group": "People & Body"
     },
     {
@@ -38750,6 +40830,790 @@
       "group": "People & Body"
     },
     {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, light skin tone, medium-light skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d💋\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, light skin tone, medium skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d💋\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, light skin tone, medium-dark skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d💋\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, light skin tone, dark skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d💋\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-light skin tone, light skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d💋\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-light skin tone, medium skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d💋\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-light skin tone, medium-dark skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d💋\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-light skin tone, dark skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d💋\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium skin tone, light skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d💋\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium skin tone, medium-light skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d💋\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium skin tone, medium-dark skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d💋\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium skin tone, dark skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d💋\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-dark skin tone, light skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d💋\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-dark skin tone, medium-light skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d💋\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-dark skin tone, medium skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d💋\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, medium-dark skin tone, dark skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d💋\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, dark skin tone, light skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d💋\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, dark skin tone, medium-light skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d💋\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, dark skin tone, medium skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d💋\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: person, person, dark skin tone, medium-dark skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d💋\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man",
+      "unicode": "👩\u200d❤️\u200d💋\u200d👨",
+      "codePoint": "1F469 200D 2764 FE0F 200D 1F48B 200D 1F468",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, light skin tone, medium-light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, light skin tone, medium skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, light skin tone, medium-dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, light skin tone, dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-light skin tone, light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-light skin tone, medium skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-light skin tone, medium-dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-light skin tone, dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium skin tone, light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium skin tone, medium-light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium skin tone, medium-dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium skin tone, dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-dark skin tone, light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-dark skin tone, medium-light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-dark skin tone, medium skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, medium-dark skin tone, dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, dark skin tone, light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, dark skin tone, medium-light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, dark skin tone, medium skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, dark skin tone, medium-dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, man, dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man",
+      "unicode": "👨\u200d❤️\u200d💋\u200d👨",
+      "codePoint": "1F468 200D 2764 FE0F 200D 1F48B 200D 1F468",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, light skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, light skin tone, medium-light skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, light skin tone, medium skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, light skin tone, medium-dark skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, light skin tone, dark skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-light skin tone, light skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-light skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-light skin tone, medium skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-light skin tone, medium-dark skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-light skin tone, dark skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium skin tone, light skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium skin tone, medium-light skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium skin tone, medium-dark skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium skin tone, dark skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-dark skin tone, light skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-dark skin tone, medium-light skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-dark skin tone, medium skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-dark skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, medium-dark skin tone, dark skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, dark skin tone, light skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d💋\u200d👨🏻",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, dark skin tone, medium-light skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d💋\u200d👨🏼",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, dark skin tone, medium skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d💋\u200d👨🏽",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, dark skin tone, medium-dark skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d💋\u200d👨🏾",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: man, man, dark skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d💋\u200d👨🏿",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman",
+      "unicode": "👩\u200d❤️\u200d💋\u200d👩",
+      "codePoint": "1F469 200D 2764 FE0F 200D 1F48B 200D 1F469",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👩🏻",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, light skin tone, medium-light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👩🏼",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, light skin tone, medium skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👩🏽",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, light skin tone, medium-dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👩🏾",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, light skin tone, dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d💋\u200d👩🏿",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-light skin tone, light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👩🏻",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👩🏼",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-light skin tone, medium skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👩🏽",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-light skin tone, medium-dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👩🏾",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-light skin tone, dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d💋\u200d👩🏿",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium skin tone, light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👩🏻",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium skin tone, medium-light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👩🏼",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👩🏽",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium skin tone, medium-dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👩🏾",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium skin tone, dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d💋\u200d👩🏿",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-dark skin tone, light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👩🏻",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-dark skin tone, medium-light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👩🏼",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-dark skin tone, medium skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👩🏽",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👩🏾",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, medium-dark skin tone, dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d💋\u200d👩🏿",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, dark skin tone, light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👩🏻",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, dark skin tone, medium-light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👩🏼",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, dark skin tone, medium skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👩🏽",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, dark skin tone, medium-dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👩🏾",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "kiss: woman, woman, dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d💋\u200d👩🏿",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
       "localization": {
         "name": "couple with heart",
         "tags": [
@@ -38897,6 +41761,990 @@
       "name": "couple with heart: dark skin tone",
       "unicode": "💑🏿",
       "codePoint": "1F491 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, light skin tone, medium-light skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, light skin tone, medium skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, light skin tone, medium-dark skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, light skin tone, dark skin tone",
+      "unicode": "🧑🏻\u200d❤️\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-light skin tone, light skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-light skin tone, medium skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-light skin tone, medium-dark skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-light skin tone, dark skin tone",
+      "unicode": "🧑🏼\u200d❤️\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium skin tone, light skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium skin tone, medium-light skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium skin tone, medium-dark skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium skin tone, dark skin tone",
+      "unicode": "🧑🏽\u200d❤️\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-dark skin tone, light skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-dark skin tone, medium skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, medium-dark skin tone, dark skin tone",
+      "unicode": "🧑🏾\u200d❤️\u200d🧑🏿",
+      "codePoint": "1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, dark skin tone, light skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d🧑🏻",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, dark skin tone, medium-light skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d🧑🏼",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, dark skin tone, medium skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d🧑🏽",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: person, person, dark skin tone, medium-dark skin tone",
+      "unicode": "🧑🏿\u200d❤️\u200d🧑🏾",
+      "codePoint": "1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man",
+      "unicode": "👩\u200d❤️\u200d👨",
+      "codePoint": "1F469 200D 2764 FE0F 200D 1F468",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👨🏻",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, light skin tone, medium-light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👨🏼",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, light skin tone, medium skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👨🏽",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, light skin tone, medium-dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👨🏾",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, light skin tone, dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👨🏿",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-light skin tone, light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👨🏻",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👨🏼",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-light skin tone, medium skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👨🏽",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👨🏾",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-light skin tone, dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👨🏿",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium skin tone, light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👨🏻",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium skin tone, medium-light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👨🏼",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👨🏽",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium skin tone, medium-dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👨🏾",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium skin tone, dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👨🏿",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-dark skin tone, light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👨🏻",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👨🏼",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👨🏽",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👨🏾",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👨🏿",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, dark skin tone, light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👨🏻",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, dark skin tone, medium-light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👨🏼",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, dark skin tone, medium skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👨🏽",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, dark skin tone, medium-dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👨🏾",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, man, dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👨🏿",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man",
+      "unicode": "👨\u200d❤️\u200d👨",
+      "codePoint": "1F468 200D 2764 FE0F 200D 1F468",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, light skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d👨🏻",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, light skin tone, medium-light skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d👨🏼",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, light skin tone, medium skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d👨🏽",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, light skin tone, medium-dark skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d👨🏾",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, light skin tone, dark skin tone",
+      "unicode": "👨🏻\u200d❤️\u200d👨🏿",
+      "codePoint": "1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-light skin tone, light skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d👨🏻",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-light skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d👨🏼",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-light skin tone, medium skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d👨🏽",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-light skin tone, medium-dark skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d👨🏾",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-light skin tone, dark skin tone",
+      "unicode": "👨🏼\u200d❤️\u200d👨🏿",
+      "codePoint": "1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium skin tone, light skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d👨🏻",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium skin tone, medium-light skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d👨🏼",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d👨🏽",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium skin tone, medium-dark skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d👨🏾",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium skin tone, dark skin tone",
+      "unicode": "👨🏽\u200d❤️\u200d👨🏿",
+      "codePoint": "1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-dark skin tone, light skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d👨🏻",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d👨🏼",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-dark skin tone, medium skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d👨🏽",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-dark skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d👨🏾",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, medium-dark skin tone, dark skin tone",
+      "unicode": "👨🏾\u200d❤️\u200d👨🏿",
+      "codePoint": "1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, dark skin tone, light skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d👨🏻",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, dark skin tone, medium-light skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d👨🏼",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, dark skin tone, medium skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d👨🏽",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, dark skin tone, medium-dark skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d👨🏾",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: man, man, dark skin tone",
+      "unicode": "👨🏿\u200d❤️\u200d👨🏿",
+      "codePoint": "1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman",
+      "unicode": "👩\u200d❤️\u200d👩",
+      "codePoint": "1F469 200D 2764 FE0F 200D 1F469",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👩🏻",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, light skin tone, medium-light skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👩🏼",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, light skin tone, medium skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👩🏽",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, light skin tone, medium-dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👩🏾",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, light skin tone, dark skin tone",
+      "unicode": "👩🏻\u200d❤️\u200d👩🏿",
+      "codePoint": "1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-light skin tone, light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👩🏻",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-light skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👩🏼",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-light skin tone, medium skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👩🏽",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👩🏾",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-light skin tone, dark skin tone",
+      "unicode": "👩🏼\u200d❤️\u200d👩🏿",
+      "codePoint": "1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium skin tone, light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👩🏻",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium skin tone, medium-light skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👩🏼",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👩🏽",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium skin tone, medium-dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👩🏾",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium skin tone, dark skin tone",
+      "unicode": "👩🏽\u200d❤️\u200d👩🏿",
+      "codePoint": "1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-dark skin tone, light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👩🏻",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👩🏼",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-dark skin tone, medium skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👩🏽",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👩🏾",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, medium-dark skin tone, dark skin tone",
+      "unicode": "👩🏾\u200d❤️\u200d👩🏿",
+      "codePoint": "1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, dark skin tone, light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👩🏻",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FB",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, dark skin tone, medium-light skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👩🏼",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FC",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, dark skin tone, medium skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👩🏽",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FD",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, dark skin tone, medium-dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👩🏾",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FE",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "couple with heart: woman, woman, dark skin tone",
+      "unicode": "👩🏿\u200d❤️\u200d👩🏿",
+      "codePoint": "1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FF",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, woman, boy",
+      "unicode": "👨\u200d👩\u200d👦",
+      "codePoint": "1F468 200D 1F469 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, woman, girl",
+      "unicode": "👨\u200d👩\u200d👧",
+      "codePoint": "1F468 200D 1F469 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, woman, girl, boy",
+      "unicode": "👨\u200d👩\u200d👧\u200d👦",
+      "codePoint": "1F468 200D 1F469 200D 1F467 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, woman, boy, boy",
+      "unicode": "👨\u200d👩\u200d👦\u200d👦",
+      "codePoint": "1F468 200D 1F469 200D 1F466 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, woman, girl, girl",
+      "unicode": "👨\u200d👩\u200d👧\u200d👧",
+      "codePoint": "1F468 200D 1F469 200D 1F467 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, man, boy",
+      "unicode": "👨\u200d👨\u200d👦",
+      "codePoint": "1F468 200D 1F468 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, man, girl",
+      "unicode": "👨\u200d👨\u200d👧",
+      "codePoint": "1F468 200D 1F468 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, man, girl, boy",
+      "unicode": "👨\u200d👨\u200d👧\u200d👦",
+      "codePoint": "1F468 200D 1F468 200D 1F467 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, man, boy, boy",
+      "unicode": "👨\u200d👨\u200d👦\u200d👦",
+      "codePoint": "1F468 200D 1F468 200D 1F466 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, man, girl, girl",
+      "unicode": "👨\u200d👨\u200d👧\u200d👧",
+      "codePoint": "1F468 200D 1F468 200D 1F467 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, woman, boy",
+      "unicode": "👩\u200d👩\u200d👦",
+      "codePoint": "1F469 200D 1F469 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, woman, girl",
+      "unicode": "👩\u200d👩\u200d👧",
+      "codePoint": "1F469 200D 1F469 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, woman, girl, boy",
+      "unicode": "👩\u200d👩\u200d👧\u200d👦",
+      "codePoint": "1F469 200D 1F469 200D 1F467 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, woman, boy, boy",
+      "unicode": "👩\u200d👩\u200d👦\u200d👦",
+      "codePoint": "1F469 200D 1F469 200D 1F466 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, woman, girl, girl",
+      "unicode": "👩\u200d👩\u200d👧\u200d👧",
+      "codePoint": "1F469 200D 1F469 200D 1F467 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, boy",
+      "unicode": "👨\u200d👦",
+      "codePoint": "1F468 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, boy, boy",
+      "unicode": "👨\u200d👦\u200d👦",
+      "codePoint": "1F468 200D 1F466 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, girl",
+      "unicode": "👨\u200d👧",
+      "codePoint": "1F468 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, girl, boy",
+      "unicode": "👨\u200d👧\u200d👦",
+      "codePoint": "1F468 200D 1F467 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: man, girl, girl",
+      "unicode": "👨\u200d👧\u200d👧",
+      "codePoint": "1F468 200D 1F467 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, boy",
+      "unicode": "👩\u200d👦",
+      "codePoint": "1F469 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, boy, boy",
+      "unicode": "👩\u200d👦\u200d👦",
+      "codePoint": "1F469 200D 1F466 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, girl",
+      "unicode": "👩\u200d👧",
+      "codePoint": "1F469 200D 1F467",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, girl, boy",
+      "unicode": "👩\u200d👧\u200d👦",
+      "codePoint": "1F469 200D 1F467 200D 1F466",
+      "group": "People & Body"
+    },
+    {
+      "localization": null,
+      "subgroup": "family",
+      "name": "family: woman, girl, girl",
+      "unicode": "👩\u200d👧\u200d👧",
+      "codePoint": "1F469 200D 1F467 200D 1F467",
       "group": "People & Body"
     },
     {
@@ -56178,6 +60026,110 @@
       "group": "Symbols"
     },
     {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: #",
+      "unicode": "#️\u20e3",
+      "codePoint": "0023 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: *",
+      "unicode": "*️\u20e3",
+      "codePoint": "002A FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 0",
+      "unicode": "0️\u20e3",
+      "codePoint": "0030 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 1",
+      "unicode": "1️\u20e3",
+      "codePoint": "0031 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 2",
+      "unicode": "2️\u20e3",
+      "codePoint": "0032 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 3",
+      "unicode": "3️\u20e3",
+      "codePoint": "0033 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 4",
+      "unicode": "4️\u20e3",
+      "codePoint": "0034 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 5",
+      "unicode": "5️\u20e3",
+      "codePoint": "0035 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 6",
+      "unicode": "6️\u20e3",
+      "codePoint": "0036 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 7",
+      "unicode": "7️\u20e3",
+      "codePoint": "0037 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 8",
+      "unicode": "8️\u20e3",
+      "codePoint": "0038 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 9",
+      "unicode": "9️\u20e3",
+      "codePoint": "0039 FE0F 20E3",
+      "group": "Symbols"
+    },
+    {
+      "localization": null,
+      "subgroup": "keycap",
+      "name": "keycap: 10",
+      "unicode": "🔟",
+      "codePoint": "1F51F",
+      "group": "Symbols"
+    },
+    {
       "localization": {
         "name": "input latin uppercase",
         "tags": [
@@ -57463,6 +61415,2102 @@
       "name": "pirate flag",
       "unicode": "🏴\u200d☠️",
       "codePoint": "1F3F4 200D 2620 FE0F",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ascension Island",
+      "unicode": "🇦🇨",
+      "codePoint": "1F1E6 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Andorra",
+      "unicode": "🇦🇩",
+      "codePoint": "1F1E6 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: United Arab Emirates",
+      "unicode": "🇦🇪",
+      "codePoint": "1F1E6 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Afghanistan",
+      "unicode": "🇦🇫",
+      "codePoint": "1F1E6 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Antigua & Barbuda",
+      "unicode": "🇦🇬",
+      "codePoint": "1F1E6 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Anguilla",
+      "unicode": "🇦🇮",
+      "codePoint": "1F1E6 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Albania",
+      "unicode": "🇦🇱",
+      "codePoint": "1F1E6 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Armenia",
+      "unicode": "🇦🇲",
+      "codePoint": "1F1E6 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Angola",
+      "unicode": "🇦🇴",
+      "codePoint": "1F1E6 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Antarctica",
+      "unicode": "🇦🇶",
+      "codePoint": "1F1E6 1F1F6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Argentina",
+      "unicode": "🇦🇷",
+      "codePoint": "1F1E6 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: American Samoa",
+      "unicode": "🇦🇸",
+      "codePoint": "1F1E6 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Austria",
+      "unicode": "🇦🇹",
+      "codePoint": "1F1E6 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Australia",
+      "unicode": "🇦🇺",
+      "codePoint": "1F1E6 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Aruba",
+      "unicode": "🇦🇼",
+      "codePoint": "1F1E6 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Åland Islands",
+      "unicode": "🇦🇽",
+      "codePoint": "1F1E6 1F1FD",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Azerbaijan",
+      "unicode": "🇦🇿",
+      "codePoint": "1F1E6 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bosnia & Herzegovina",
+      "unicode": "🇧🇦",
+      "codePoint": "1F1E7 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Barbados",
+      "unicode": "🇧🇧",
+      "codePoint": "1F1E7 1F1E7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bangladesh",
+      "unicode": "🇧🇩",
+      "codePoint": "1F1E7 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Belgium",
+      "unicode": "🇧🇪",
+      "codePoint": "1F1E7 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Burkina Faso",
+      "unicode": "🇧🇫",
+      "codePoint": "1F1E7 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bulgaria",
+      "unicode": "🇧🇬",
+      "codePoint": "1F1E7 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bahrain",
+      "unicode": "🇧🇭",
+      "codePoint": "1F1E7 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Burundi",
+      "unicode": "🇧🇮",
+      "codePoint": "1F1E7 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Benin",
+      "unicode": "🇧🇯",
+      "codePoint": "1F1E7 1F1EF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Barthélemy",
+      "unicode": "🇧🇱",
+      "codePoint": "1F1E7 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bermuda",
+      "unicode": "🇧🇲",
+      "codePoint": "1F1E7 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Brunei",
+      "unicode": "🇧🇳",
+      "codePoint": "1F1E7 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bolivia",
+      "unicode": "🇧🇴",
+      "codePoint": "1F1E7 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Caribbean Netherlands",
+      "unicode": "🇧🇶",
+      "codePoint": "1F1E7 1F1F6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Brazil",
+      "unicode": "🇧🇷",
+      "codePoint": "1F1E7 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bahamas",
+      "unicode": "🇧🇸",
+      "codePoint": "1F1E7 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bhutan",
+      "unicode": "🇧🇹",
+      "codePoint": "1F1E7 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Bouvet Island",
+      "unicode": "🇧🇻",
+      "codePoint": "1F1E7 1F1FB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Botswana",
+      "unicode": "🇧🇼",
+      "codePoint": "1F1E7 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Belarus",
+      "unicode": "🇧🇾",
+      "codePoint": "1F1E7 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Belize",
+      "unicode": "🇧🇿",
+      "codePoint": "1F1E7 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Canada",
+      "unicode": "🇨🇦",
+      "codePoint": "1F1E8 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cocos (Keeling) Islands",
+      "unicode": "🇨🇨",
+      "codePoint": "1F1E8 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Congo - Kinshasa",
+      "unicode": "🇨🇩",
+      "codePoint": "1F1E8 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Central African Republic",
+      "unicode": "🇨🇫",
+      "codePoint": "1F1E8 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Congo - Brazzaville",
+      "unicode": "🇨🇬",
+      "codePoint": "1F1E8 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Switzerland",
+      "unicode": "🇨🇭",
+      "codePoint": "1F1E8 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Côte d\u2019Ivoire",
+      "unicode": "🇨🇮",
+      "codePoint": "1F1E8 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cook Islands",
+      "unicode": "🇨🇰",
+      "codePoint": "1F1E8 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Chile",
+      "unicode": "🇨🇱",
+      "codePoint": "1F1E8 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cameroon",
+      "unicode": "🇨🇲",
+      "codePoint": "1F1E8 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: China",
+      "unicode": "🇨🇳",
+      "codePoint": "1F1E8 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Colombia",
+      "unicode": "🇨🇴",
+      "codePoint": "1F1E8 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Clipperton Island",
+      "unicode": "🇨🇵",
+      "codePoint": "1F1E8 1F1F5",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Sark",
+      "unicode": "🇨🇶",
+      "codePoint": "1F1E8 1F1F6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Costa Rica",
+      "unicode": "🇨🇷",
+      "codePoint": "1F1E8 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cuba",
+      "unicode": "🇨🇺",
+      "codePoint": "1F1E8 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cape Verde",
+      "unicode": "🇨🇻",
+      "codePoint": "1F1E8 1F1FB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Curaçao",
+      "unicode": "🇨🇼",
+      "codePoint": "1F1E8 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Christmas Island",
+      "unicode": "🇨🇽",
+      "codePoint": "1F1E8 1F1FD",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cyprus",
+      "unicode": "🇨🇾",
+      "codePoint": "1F1E8 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Czechia",
+      "unicode": "🇨🇿",
+      "codePoint": "1F1E8 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Germany",
+      "unicode": "🇩🇪",
+      "codePoint": "1F1E9 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Diego Garcia",
+      "unicode": "🇩🇬",
+      "codePoint": "1F1E9 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Djibouti",
+      "unicode": "🇩🇯",
+      "codePoint": "1F1E9 1F1EF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Denmark",
+      "unicode": "🇩🇰",
+      "codePoint": "1F1E9 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Dominica",
+      "unicode": "🇩🇲",
+      "codePoint": "1F1E9 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Dominican Republic",
+      "unicode": "🇩🇴",
+      "codePoint": "1F1E9 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Algeria",
+      "unicode": "🇩🇿",
+      "codePoint": "1F1E9 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ceuta & Melilla",
+      "unicode": "🇪🇦",
+      "codePoint": "1F1EA 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ecuador",
+      "unicode": "🇪🇨",
+      "codePoint": "1F1EA 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Estonia",
+      "unicode": "🇪🇪",
+      "codePoint": "1F1EA 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Egypt",
+      "unicode": "🇪🇬",
+      "codePoint": "1F1EA 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Western Sahara",
+      "unicode": "🇪🇭",
+      "codePoint": "1F1EA 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Eritrea",
+      "unicode": "🇪🇷",
+      "codePoint": "1F1EA 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Spain",
+      "unicode": "🇪🇸",
+      "codePoint": "1F1EA 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ethiopia",
+      "unicode": "🇪🇹",
+      "codePoint": "1F1EA 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: European Union",
+      "unicode": "🇪🇺",
+      "codePoint": "1F1EA 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Finland",
+      "unicode": "🇫🇮",
+      "codePoint": "1F1EB 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Fiji",
+      "unicode": "🇫🇯",
+      "codePoint": "1F1EB 1F1EF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Falkland Islands",
+      "unicode": "🇫🇰",
+      "codePoint": "1F1EB 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Micronesia",
+      "unicode": "🇫🇲",
+      "codePoint": "1F1EB 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Faroe Islands",
+      "unicode": "🇫🇴",
+      "codePoint": "1F1EB 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: France",
+      "unicode": "🇫🇷",
+      "codePoint": "1F1EB 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Gabon",
+      "unicode": "🇬🇦",
+      "codePoint": "1F1EC 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: United Kingdom",
+      "unicode": "🇬🇧",
+      "codePoint": "1F1EC 1F1E7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Grenada",
+      "unicode": "🇬🇩",
+      "codePoint": "1F1EC 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Georgia",
+      "unicode": "🇬🇪",
+      "codePoint": "1F1EC 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: French Guiana",
+      "unicode": "🇬🇫",
+      "codePoint": "1F1EC 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guernsey",
+      "unicode": "🇬🇬",
+      "codePoint": "1F1EC 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ghana",
+      "unicode": "🇬🇭",
+      "codePoint": "1F1EC 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Gibraltar",
+      "unicode": "🇬🇮",
+      "codePoint": "1F1EC 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Greenland",
+      "unicode": "🇬🇱",
+      "codePoint": "1F1EC 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Gambia",
+      "unicode": "🇬🇲",
+      "codePoint": "1F1EC 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guinea",
+      "unicode": "🇬🇳",
+      "codePoint": "1F1EC 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guadeloupe",
+      "unicode": "🇬🇵",
+      "codePoint": "1F1EC 1F1F5",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Equatorial Guinea",
+      "unicode": "🇬🇶",
+      "codePoint": "1F1EC 1F1F6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Greece",
+      "unicode": "🇬🇷",
+      "codePoint": "1F1EC 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: South Georgia & South Sandwich Islands",
+      "unicode": "🇬🇸",
+      "codePoint": "1F1EC 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guatemala",
+      "unicode": "🇬🇹",
+      "codePoint": "1F1EC 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guam",
+      "unicode": "🇬🇺",
+      "codePoint": "1F1EC 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guinea-Bissau",
+      "unicode": "🇬🇼",
+      "codePoint": "1F1EC 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Guyana",
+      "unicode": "🇬🇾",
+      "codePoint": "1F1EC 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Hong Kong SAR China",
+      "unicode": "🇭🇰",
+      "codePoint": "1F1ED 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Heard & McDonald Islands",
+      "unicode": "🇭🇲",
+      "codePoint": "1F1ED 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Honduras",
+      "unicode": "🇭🇳",
+      "codePoint": "1F1ED 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Croatia",
+      "unicode": "🇭🇷",
+      "codePoint": "1F1ED 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Haiti",
+      "unicode": "🇭🇹",
+      "codePoint": "1F1ED 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Hungary",
+      "unicode": "🇭🇺",
+      "codePoint": "1F1ED 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Canary Islands",
+      "unicode": "🇮🇨",
+      "codePoint": "1F1EE 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Indonesia",
+      "unicode": "🇮🇩",
+      "codePoint": "1F1EE 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ireland",
+      "unicode": "🇮🇪",
+      "codePoint": "1F1EE 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Israel",
+      "unicode": "🇮🇱",
+      "codePoint": "1F1EE 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Isle of Man",
+      "unicode": "🇮🇲",
+      "codePoint": "1F1EE 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: India",
+      "unicode": "🇮🇳",
+      "codePoint": "1F1EE 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: British Indian Ocean Territory",
+      "unicode": "🇮🇴",
+      "codePoint": "1F1EE 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Iraq",
+      "unicode": "🇮🇶",
+      "codePoint": "1F1EE 1F1F6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Iran",
+      "unicode": "🇮🇷",
+      "codePoint": "1F1EE 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Iceland",
+      "unicode": "🇮🇸",
+      "codePoint": "1F1EE 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Italy",
+      "unicode": "🇮🇹",
+      "codePoint": "1F1EE 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Jersey",
+      "unicode": "🇯🇪",
+      "codePoint": "1F1EF 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Jamaica",
+      "unicode": "🇯🇲",
+      "codePoint": "1F1EF 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Jordan",
+      "unicode": "🇯🇴",
+      "codePoint": "1F1EF 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Japan",
+      "unicode": "🇯🇵",
+      "codePoint": "1F1EF 1F1F5",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Kenya",
+      "unicode": "🇰🇪",
+      "codePoint": "1F1F0 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Kyrgyzstan",
+      "unicode": "🇰🇬",
+      "codePoint": "1F1F0 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cambodia",
+      "unicode": "🇰🇭",
+      "codePoint": "1F1F0 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Kiribati",
+      "unicode": "🇰🇮",
+      "codePoint": "1F1F0 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Comoros",
+      "unicode": "🇰🇲",
+      "codePoint": "1F1F0 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Kitts & Nevis",
+      "unicode": "🇰🇳",
+      "codePoint": "1F1F0 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: North Korea",
+      "unicode": "🇰🇵",
+      "codePoint": "1F1F0 1F1F5",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: South Korea",
+      "unicode": "🇰🇷",
+      "codePoint": "1F1F0 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Kuwait",
+      "unicode": "🇰🇼",
+      "codePoint": "1F1F0 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Cayman Islands",
+      "unicode": "🇰🇾",
+      "codePoint": "1F1F0 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Kazakhstan",
+      "unicode": "🇰🇿",
+      "codePoint": "1F1F0 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Laos",
+      "unicode": "🇱🇦",
+      "codePoint": "1F1F1 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Lebanon",
+      "unicode": "🇱🇧",
+      "codePoint": "1F1F1 1F1E7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Lucia",
+      "unicode": "🇱🇨",
+      "codePoint": "1F1F1 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Liechtenstein",
+      "unicode": "🇱🇮",
+      "codePoint": "1F1F1 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Sri Lanka",
+      "unicode": "🇱🇰",
+      "codePoint": "1F1F1 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Liberia",
+      "unicode": "🇱🇷",
+      "codePoint": "1F1F1 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Lesotho",
+      "unicode": "🇱🇸",
+      "codePoint": "1F1F1 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Lithuania",
+      "unicode": "🇱🇹",
+      "codePoint": "1F1F1 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Luxembourg",
+      "unicode": "🇱🇺",
+      "codePoint": "1F1F1 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Latvia",
+      "unicode": "🇱🇻",
+      "codePoint": "1F1F1 1F1FB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Libya",
+      "unicode": "🇱🇾",
+      "codePoint": "1F1F1 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Morocco",
+      "unicode": "🇲🇦",
+      "codePoint": "1F1F2 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Monaco",
+      "unicode": "🇲🇨",
+      "codePoint": "1F1F2 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Moldova",
+      "unicode": "🇲🇩",
+      "codePoint": "1F1F2 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Montenegro",
+      "unicode": "🇲🇪",
+      "codePoint": "1F1F2 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Martin",
+      "unicode": "🇲🇫",
+      "codePoint": "1F1F2 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Madagascar",
+      "unicode": "🇲🇬",
+      "codePoint": "1F1F2 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Marshall Islands",
+      "unicode": "🇲🇭",
+      "codePoint": "1F1F2 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: North Macedonia",
+      "unicode": "🇲🇰",
+      "codePoint": "1F1F2 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mali",
+      "unicode": "🇲🇱",
+      "codePoint": "1F1F2 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Myanmar (Burma)",
+      "unicode": "🇲🇲",
+      "codePoint": "1F1F2 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mongolia",
+      "unicode": "🇲🇳",
+      "codePoint": "1F1F2 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Macao SAR China",
+      "unicode": "🇲🇴",
+      "codePoint": "1F1F2 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Northern Mariana Islands",
+      "unicode": "🇲🇵",
+      "codePoint": "1F1F2 1F1F5",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Martinique",
+      "unicode": "🇲🇶",
+      "codePoint": "1F1F2 1F1F6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mauritania",
+      "unicode": "🇲🇷",
+      "codePoint": "1F1F2 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Montserrat",
+      "unicode": "🇲🇸",
+      "codePoint": "1F1F2 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Malta",
+      "unicode": "🇲🇹",
+      "codePoint": "1F1F2 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mauritius",
+      "unicode": "🇲🇺",
+      "codePoint": "1F1F2 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Maldives",
+      "unicode": "🇲🇻",
+      "codePoint": "1F1F2 1F1FB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Malawi",
+      "unicode": "🇲🇼",
+      "codePoint": "1F1F2 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mexico",
+      "unicode": "🇲🇽",
+      "codePoint": "1F1F2 1F1FD",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Malaysia",
+      "unicode": "🇲🇾",
+      "codePoint": "1F1F2 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mozambique",
+      "unicode": "🇲🇿",
+      "codePoint": "1F1F2 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Namibia",
+      "unicode": "🇳🇦",
+      "codePoint": "1F1F3 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: New Caledonia",
+      "unicode": "🇳🇨",
+      "codePoint": "1F1F3 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Niger",
+      "unicode": "🇳🇪",
+      "codePoint": "1F1F3 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Norfolk Island",
+      "unicode": "🇳🇫",
+      "codePoint": "1F1F3 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Nigeria",
+      "unicode": "🇳🇬",
+      "codePoint": "1F1F3 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Nicaragua",
+      "unicode": "🇳🇮",
+      "codePoint": "1F1F3 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Netherlands",
+      "unicode": "🇳🇱",
+      "codePoint": "1F1F3 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Norway",
+      "unicode": "🇳🇴",
+      "codePoint": "1F1F3 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Nepal",
+      "unicode": "🇳🇵",
+      "codePoint": "1F1F3 1F1F5",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Nauru",
+      "unicode": "🇳🇷",
+      "codePoint": "1F1F3 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Niue",
+      "unicode": "🇳🇺",
+      "codePoint": "1F1F3 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: New Zealand",
+      "unicode": "🇳🇿",
+      "codePoint": "1F1F3 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Oman",
+      "unicode": "🇴🇲",
+      "codePoint": "1F1F4 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Panama",
+      "unicode": "🇵🇦",
+      "codePoint": "1F1F5 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Peru",
+      "unicode": "🇵🇪",
+      "codePoint": "1F1F5 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: French Polynesia",
+      "unicode": "🇵🇫",
+      "codePoint": "1F1F5 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Papua New Guinea",
+      "unicode": "🇵🇬",
+      "codePoint": "1F1F5 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Philippines",
+      "unicode": "🇵🇭",
+      "codePoint": "1F1F5 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Pakistan",
+      "unicode": "🇵🇰",
+      "codePoint": "1F1F5 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Poland",
+      "unicode": "🇵🇱",
+      "codePoint": "1F1F5 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Pierre & Miquelon",
+      "unicode": "🇵🇲",
+      "codePoint": "1F1F5 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Pitcairn Islands",
+      "unicode": "🇵🇳",
+      "codePoint": "1F1F5 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Puerto Rico",
+      "unicode": "🇵🇷",
+      "codePoint": "1F1F5 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Palestinian Territories",
+      "unicode": "🇵🇸",
+      "codePoint": "1F1F5 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Portugal",
+      "unicode": "🇵🇹",
+      "codePoint": "1F1F5 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Palau",
+      "unicode": "🇵🇼",
+      "codePoint": "1F1F5 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Paraguay",
+      "unicode": "🇵🇾",
+      "codePoint": "1F1F5 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Qatar",
+      "unicode": "🇶🇦",
+      "codePoint": "1F1F6 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Réunion",
+      "unicode": "🇷🇪",
+      "codePoint": "1F1F7 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Romania",
+      "unicode": "🇷🇴",
+      "codePoint": "1F1F7 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Serbia",
+      "unicode": "🇷🇸",
+      "codePoint": "1F1F7 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Russia",
+      "unicode": "🇷🇺",
+      "codePoint": "1F1F7 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Rwanda",
+      "unicode": "🇷🇼",
+      "codePoint": "1F1F7 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Saudi Arabia",
+      "unicode": "🇸🇦",
+      "codePoint": "1F1F8 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Solomon Islands",
+      "unicode": "🇸🇧",
+      "codePoint": "1F1F8 1F1E7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Seychelles",
+      "unicode": "🇸🇨",
+      "codePoint": "1F1F8 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Sudan",
+      "unicode": "🇸🇩",
+      "codePoint": "1F1F8 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Sweden",
+      "unicode": "🇸🇪",
+      "codePoint": "1F1F8 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Singapore",
+      "unicode": "🇸🇬",
+      "codePoint": "1F1F8 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Helena",
+      "unicode": "🇸🇭",
+      "codePoint": "1F1F8 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Slovenia",
+      "unicode": "🇸🇮",
+      "codePoint": "1F1F8 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Svalbard & Jan Mayen",
+      "unicode": "🇸🇯",
+      "codePoint": "1F1F8 1F1EF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Slovakia",
+      "unicode": "🇸🇰",
+      "codePoint": "1F1F8 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Sierra Leone",
+      "unicode": "🇸🇱",
+      "codePoint": "1F1F8 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: San Marino",
+      "unicode": "🇸🇲",
+      "codePoint": "1F1F8 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Senegal",
+      "unicode": "🇸🇳",
+      "codePoint": "1F1F8 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Somalia",
+      "unicode": "🇸🇴",
+      "codePoint": "1F1F8 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Suriname",
+      "unicode": "🇸🇷",
+      "codePoint": "1F1F8 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: South Sudan",
+      "unicode": "🇸🇸",
+      "codePoint": "1F1F8 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: São Tomé & Príncipe",
+      "unicode": "🇸🇹",
+      "codePoint": "1F1F8 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: El Salvador",
+      "unicode": "🇸🇻",
+      "codePoint": "1F1F8 1F1FB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Sint Maarten",
+      "unicode": "🇸🇽",
+      "codePoint": "1F1F8 1F1FD",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Syria",
+      "unicode": "🇸🇾",
+      "codePoint": "1F1F8 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Eswatini",
+      "unicode": "🇸🇿",
+      "codePoint": "1F1F8 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tristan da Cunha",
+      "unicode": "🇹🇦",
+      "codePoint": "1F1F9 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Turks & Caicos Islands",
+      "unicode": "🇹🇨",
+      "codePoint": "1F1F9 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Chad",
+      "unicode": "🇹🇩",
+      "codePoint": "1F1F9 1F1E9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: French Southern Territories",
+      "unicode": "🇹🇫",
+      "codePoint": "1F1F9 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Togo",
+      "unicode": "🇹🇬",
+      "codePoint": "1F1F9 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Thailand",
+      "unicode": "🇹🇭",
+      "codePoint": "1F1F9 1F1ED",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tajikistan",
+      "unicode": "🇹🇯",
+      "codePoint": "1F1F9 1F1EF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tokelau",
+      "unicode": "🇹🇰",
+      "codePoint": "1F1F9 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Timor-Leste",
+      "unicode": "🇹🇱",
+      "codePoint": "1F1F9 1F1F1",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Turkmenistan",
+      "unicode": "🇹🇲",
+      "codePoint": "1F1F9 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tunisia",
+      "unicode": "🇹🇳",
+      "codePoint": "1F1F9 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tonga",
+      "unicode": "🇹🇴",
+      "codePoint": "1F1F9 1F1F4",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Türkiye",
+      "unicode": "🇹🇷",
+      "codePoint": "1F1F9 1F1F7",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Trinidad & Tobago",
+      "unicode": "🇹🇹",
+      "codePoint": "1F1F9 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tuvalu",
+      "unicode": "🇹🇻",
+      "codePoint": "1F1F9 1F1FB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Taiwan",
+      "unicode": "🇹🇼",
+      "codePoint": "1F1F9 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Tanzania",
+      "unicode": "🇹🇿",
+      "codePoint": "1F1F9 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Ukraine",
+      "unicode": "🇺🇦",
+      "codePoint": "1F1FA 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Uganda",
+      "unicode": "🇺🇬",
+      "codePoint": "1F1FA 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: U.S. Outlying Islands",
+      "unicode": "🇺🇲",
+      "codePoint": "1F1FA 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: United Nations",
+      "unicode": "🇺🇳",
+      "codePoint": "1F1FA 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: United States",
+      "unicode": "🇺🇸",
+      "codePoint": "1F1FA 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Uruguay",
+      "unicode": "🇺🇾",
+      "codePoint": "1F1FA 1F1FE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Uzbekistan",
+      "unicode": "🇺🇿",
+      "codePoint": "1F1FA 1F1FF",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Vatican City",
+      "unicode": "🇻🇦",
+      "codePoint": "1F1FB 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: St. Vincent & Grenadines",
+      "unicode": "🇻🇨",
+      "codePoint": "1F1FB 1F1E8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Venezuela",
+      "unicode": "🇻🇪",
+      "codePoint": "1F1FB 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: British Virgin Islands",
+      "unicode": "🇻🇬",
+      "codePoint": "1F1FB 1F1EC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: U.S. Virgin Islands",
+      "unicode": "🇻🇮",
+      "codePoint": "1F1FB 1F1EE",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Vietnam",
+      "unicode": "🇻🇳",
+      "codePoint": "1F1FB 1F1F3",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Vanuatu",
+      "unicode": "🇻🇺",
+      "codePoint": "1F1FB 1F1FA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Wallis & Futuna",
+      "unicode": "🇼🇫",
+      "codePoint": "1F1FC 1F1EB",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Samoa",
+      "unicode": "🇼🇸",
+      "codePoint": "1F1FC 1F1F8",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Kosovo",
+      "unicode": "🇽🇰",
+      "codePoint": "1F1FD 1F1F0",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Yemen",
+      "unicode": "🇾🇪",
+      "codePoint": "1F1FE 1F1EA",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Mayotte",
+      "unicode": "🇾🇹",
+      "codePoint": "1F1FE 1F1F9",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: South Africa",
+      "unicode": "🇿🇦",
+      "codePoint": "1F1FF 1F1E6",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Zambia",
+      "unicode": "🇿🇲",
+      "codePoint": "1F1FF 1F1F2",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "country-flag",
+      "name": "flag: Zimbabwe",
+      "unicode": "🇿🇼",
+      "codePoint": "1F1FF 1F1FC",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "subdivision-flag",
+      "name": "flag: England",
+      "unicode": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "codePoint": "1F3F4 E0067 E0062 E0065 E006E E0067 E007F",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "subdivision-flag",
+      "name": "flag: Scotland",
+      "unicode": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "codePoint": "1F3F4 E0067 E0062 E0073 E0063 E0074 E007F",
+      "group": "Flags"
+    },
+    {
+      "localization": null,
+      "subgroup": "subdivision-flag",
+      "name": "flag: Wales",
+      "unicode": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+      "codePoint": "1F3F4 E0067 E0062 E0077 E006C E0073 E007F",
       "group": "Flags"
     }
   ],
