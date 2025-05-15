@@ -1,11 +1,13 @@
 package com.mob1st.emoji.domain.data.cldr
 
 import com.mob1st.emoji.domain.entities.Emoji
+import com.mob1st.emoji.infra.EmojiNormalizer
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import org.w3c.dom.Document
 import org.w3c.dom.Node
+import java.text.Normalizer
 
 class CldrDocumentParser(
     private val dispatcher: CoroutineDispatcher = Dispatchers.Default,
@@ -23,8 +25,9 @@ class CldrDocumentParser(
             val cp = node.attributes?.getNamedItem("cp")?.nodeValue ?: continue
             val type = node.attributes?.getNamedItem("type")?.nodeValue
 
+            val key = EmojiNormalizer.normalizedUnicode(cp)
             val temp = result.getOrDefault(
-                cp,
+                key,
                 Emoji.Localization()
             )
             val final = if (type == "tts") {
@@ -32,7 +35,7 @@ class CldrDocumentParser(
             } else {
                 temp.copy(tags = node.getTags())
             }
-            result[cp] = final
+            result[key] = final
         }
         result
     }

@@ -1,6 +1,7 @@
 package com.mob1st.emoji.domain.data.pages
 
 import com.mob1st.emoji.domain.entities.Emoji
+import com.mob1st.emoji.infra.EmojiNormalizer
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -21,19 +22,18 @@ class GithubPageParser(
         val array = JSONArray().apply {
             var notFound = 0
             emojis.forEach { emoji ->
-                val emojiJson = emoji.toJson()
                 val localizationJson = localizationMap.toJson(emoji.unicode)
-                val value = if (localizationJson != null) {
-                    localizationJson
+                if (localizationJson != null) {
+                    val emojiJson = emoji.toJson()
+                    emojiJson.put(
+                        "localization",
+                        localizationJson
+                    )
+                    put(emojiJson)
                 } else {
                     notFound++
-                    JSONObject.NULL
                 }
-                emojiJson.put(
-                    "localization",
-                    value
-                )
-                put(emojiJson)
+
             }
             println("Not found count: $notFound")
         }
@@ -52,12 +52,12 @@ class GithubPageParser(
     }
 
     private fun Map<String, Emoji.Localization>.toJson(unicode: String): JSONObject? {
-        val key = Normalizer.normalize(unicode, Normalizer.Form.NFC)
+        val key = EmojiNormalizer.normalizedUnicode(unicode)
         val localization = this[key]
-        return if (localization == null) {
-            println("No localization found for $unicode")
+        if (localization == null) {
             return null
-        } else JSONObject().apply {
+        }
+        return JSONObject().apply {
             put("name", localization.name)
             put("tags", JSONArray().apply {
                 localization.tags.forEach { tag ->
@@ -65,6 +65,28 @@ class GithubPageParser(
                 }
             })
         }
+    }
+
+    private fun normalizeEmojiPresentation(input: String): String {
+        val builder = StringBuilder()
+        var i = 0
+        while (i < input.length) {
+            val cp = input.codePointAt(i)
+            builder.appendCodePoint(cp)
+
+            if (!input.hasNextFE0F(i, cp)) {
+                builder.appendCodePoint(0xFE0F)
+            }
+
+            i += Character.charCount(cp)
+        }
+        return builder.toString()
+    }
+
+    private fun String.hasNextFE0F(index: Int, cp: Int): Boolean {
+        val nextIndex = index + Character.charCount(cp)
+        if (nextIndex >= this.length) return false
+        return this.codePointAt(nextIndex) == 0xFE0F
     }
 
 }
