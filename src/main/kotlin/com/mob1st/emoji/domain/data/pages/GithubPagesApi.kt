@@ -19,7 +19,7 @@ class GithubPagesApi(
         )
         jsonFileWriter.write(
             filePath = "docs/emojis_$language.json",
-            json = json
+            jsonElement = json
         )
     }
 }
