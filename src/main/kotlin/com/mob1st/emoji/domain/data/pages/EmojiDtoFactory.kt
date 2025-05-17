@@ -15,20 +15,23 @@ object EmojiDtoFactory {
         var foundCount = 0
         var notFoundCount = 0
         val dtos = mutableListOf<EmojiDto>()
-        emojis.forEach {
-            val key = NormalizedUnicode.create(it.unicode)
+        emojis.forEach { emoji ->
+            val key = NormalizedUnicode.create(emoji.unicode)
             val localization = localizationMap.getOrElse(key) {
                 CountryNameProvider.getCountryName(
-                    language,
-                    it.name
+                    language = language,
+                    englishName = emoji.name
                 )
             }
             if (localization != null) {
                 foundCount++
-                dtos.add(it.toEmojiDto(localization))
+                dtos.add(emoji.toEmojiDto(localization))
             } else {
-                logger.debug(
-                    "Emoji not found in localization map. unicode: ${it.unicode} - key: ${key.value} - name: ${it.name}"
+                logger.warn(
+                    "Emoji not found in localization map. " +
+                            "unicode: ${emoji.unicode} - " +
+                            "key: ${key.value} - " +
+                            "name: ${emoji.name}"
                 )
                 notFoundCount++
             }

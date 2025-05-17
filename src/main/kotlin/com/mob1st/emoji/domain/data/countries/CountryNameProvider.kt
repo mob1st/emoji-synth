@@ -5,12 +5,6 @@ import java.util.Locale
 
 object CountryNameProvider {
 
-    fun isCountryFlag(emoji: String): Boolean {
-        val codePoints = emoji.codePoints().toArray()
-        return codePoints.size == 2 &&
-                codePoints.all { it in 0x1F1E6..0x1F1FF }
-    }
-
     fun getCountryName(
         language: String,
         englishName: String
