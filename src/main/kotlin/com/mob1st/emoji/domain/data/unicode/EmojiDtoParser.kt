@@ -22,12 +22,12 @@ class EmojiDtoParser(
                     line.startsWith("# subgroup") -> {
                         currentSubgroup = line.splitGrouper()
                     }
-                    line.contains("; fully-qualified") -> {
+                    Variations.shouldIncludeLine(line) -> {
                         val parts = line.split(regex)
                         val dto = Emoji(
                             group = currentGroup.trim(),
                             subgroup = currentSubgroup.trim(),
-                            codePoint = parts[0].trim(),
+                            codePoints = parts[0].trim(),
                             unicode = parts[2].trim(),
                             name = parts[3].trim(),
                         )

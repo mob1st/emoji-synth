@@ -5,6 +5,6 @@ import kotlinx.serialization.json.Json
 val globalJson = Json {
     isLenient = true
     ignoreUnknownKeys = true
-    prettyPrint = true
+    prettyPrint = false
     encodeDefaults = false
 }

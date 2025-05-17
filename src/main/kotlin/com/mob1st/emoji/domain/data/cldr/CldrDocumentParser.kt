@@ -1,23 +1,23 @@
 package com.mob1st.emoji.domain.data.cldr
 
-import com.mob1st.emoji.domain.entities.Emoji
-import com.mob1st.emoji.infra.EmojiNormalizer
+import com.mob1st.emoji.domain.entities.EmojiLocalization
+import com.mob1st.emoji.domain.entities.NormalizedUnicode
+import com.mob1st.emoji.infra.emoji.EmojiNormalizer
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import org.w3c.dom.Document
 import org.w3c.dom.Node
-import java.text.Normalizer
 
 class CldrDocumentParser(
     private val dispatcher: CoroutineDispatcher = Dispatchers.Default,
 ) {
     suspend fun parse(
         document: Document
-    ): Map<String, Emoji.Localization> = withContext(dispatcher) {
+    ): Map<NormalizedUnicode, EmojiLocalization> = withContext(dispatcher) {
         val annotations = document.getElementsByTagName("annotation")
 
-        val result = mutableMapOf<String, Emoji.Localization>()
+        val result = mutableMapOf<NormalizedUnicode, EmojiLocalization>()
 
         for (i in 0 until annotations.length) {
             val node = annotations.item(i)
@@ -25,10 +25,10 @@ class CldrDocumentParser(
             val cp = node.attributes?.getNamedItem("cp")?.nodeValue ?: continue
             val type = node.attributes?.getNamedItem("type")?.nodeValue
 
-            val key = EmojiNormalizer.normalizedUnicode(cp.trim())
+            val key = NormalizedUnicode.create(cp)
             val temp = result.getOrDefault(
                 key,
-                Emoji.Localization()
+                EmojiLocalization()
             )
             val final = if (type == "tts") {
                 temp.copy(name = node.getName())

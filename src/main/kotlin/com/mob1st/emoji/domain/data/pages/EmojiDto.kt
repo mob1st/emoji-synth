@@ -10,12 +10,11 @@ data class EmojiList(
 
 @Serializable
 data class EmojiDto(
-    val codePoint: String,
+    val codePoints: String,
     val unicode: String,
     val group: String,
     val subgroup: String,
     val name: String,
-    val localization: LocalizationDto? = null,
 )
 
 @Serializable
