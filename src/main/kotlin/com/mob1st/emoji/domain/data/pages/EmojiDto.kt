@@ -15,6 +15,7 @@ data class EmojiDto(
     val group: String,
     val subgroup: String,
     val name: String,
+    val localizationDto: LocalizationDto,
 )
 
 @Serializable

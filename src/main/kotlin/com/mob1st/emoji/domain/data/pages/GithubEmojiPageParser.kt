@@ -1,6 +1,5 @@
 package com.mob1st.emoji.domain.data.pages
 
-import com.mob1st.emoji.domain.entities.Emoji
 import com.mob1st.emoji.infra.json.globalJson
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
@@ -13,9 +12,9 @@ class GithubEmojiPageParser(
 ) {
 
     suspend fun parse(
-        emojis: List<Emoji>,
+        list: EmojiList,
     ) : String = withContext(dispatcher) {
-        json.encodeToString(emojis)
+        json.encodeToString(list)
     }
 
 }
